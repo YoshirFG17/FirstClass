@@ -4,3 +4,4 @@ video4.mp4 filter=lfs diff=lfs merge=lfs -text
 video5.mp4 filter=lfs diff=lfs merge=lfs -text
 video6.mp4 filter=lfs diff=lfs merge=lfs -text
 video7.mp4 filter=lfs diff=lfs merge=lfs -text
+video8.mp4 filter=lfs diff=lfs merge=lfs -text
